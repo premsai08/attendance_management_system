@@ -79,7 +79,6 @@ https://user-images.githubusercontent.com/91896009/164498733-955df7c1-71d6-42e4-
 - Error_3: If you see some weird plugin errors run this command in terminal it will reset the plugin cache.
 > **flutter clean && flutter pub get** 
 
-- if these doesn't help you, you can always contact us with the issue information 😃.
 
 ## Features
 - [x] Attendance management with ease
@@ -100,30 +99,3 @@ https://user-images.githubusercontent.com/91896009/164498733-955df7c1-71d6-42e4-
 - [ ] Daily log and notification [Can be added with cloud functions]
 - [x] Space Range Selection [Admin Side]
 - [ ] Geolocation based verification [Coming Soon]
-- [ ] More coming soon 🔥 😍 
-<hr>
-
-🙌  We are excited to see you here, thank you for taking the time to read this..
-
-We are working hard to bring more features stay with us and [follow].  
-
-### We have used [flutter] for the UI here and We used our [Super Fast Face SDK] 🔥 to use verification.
-
-You can learn more about our sdk here **[faceonlive.com]**. We always encourage people to contribute on it.
-
->[Fork] it here 💙 <br>
-> [Follow] this repo ❤️
-
-If you liked our project you can give a star to let us know. Thank you for your time. Have a great day. ❤️
-
-
-<!-- REFERENCES -->
-[flutter]:https://docs.flutter.dev/get-started/install
-[androidstudio]:https://developer.android.com/studio
-
-[follow]: https://github.com/FaceOnLive/Mask-Face-Attendance-App-Flutter/subscription
-
-[Fork]: https://github.com/FaceOnLive/Mask-Face-Attendance-App-Flutter/fork
-
-[faceonlive.com]:https://faceonlive.com
-[Super Fast Face SDK]: https://faceonlive.com
