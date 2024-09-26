@@ -1,36 +1,7 @@
-✨ _**Update (Mar 1, 2024):**_
-Introduce **OpenKYC Community Project**, build your own eKYC solution and contribute at this [Github Repo](https://github.com/FaceOnLive/OpenKYC), try at [HuggingFace Space](https://huggingface.co/spaces/FaceOnLive/OpenKYC).
-
-# Face Attendance
-
-An App Made with Face SDK
-
-![cover_image](docs/github_cover.png)
-
-
 
 https://user-images.githubusercontent.com/91896009/164498733-955df7c1-71d6-42e4-8cdc-7e6b7e30e460.mp4
 
 
-
-## Before we get started
-- 👉  For now, Our app does support only Android platform (arm64).
-
-- 👉  You will need a new AAR Library if you are creating this app on your own or changing the package name.
-
-- 🚀 If you are looking the code in a code editor.You can hover over it to see the info of a particular function or classes. 👇
-![hovering_over_functions](docs/hovering_over_class_or_functions.png)
-- 🙋🏽‍♂️ We are improving the codebase and trying to make it better,but you may see some legacy codes. 🔥
-
-
-- It would be super awesome 😍  if you install flutter and dart extension on your code editor if available.
-
-- You need to generate your google map api key and firebase account if you are developing this on your own. 🙋🏽‍♂️
-
-- If you face any problem [contact us here](http://faceonlive.com) ✌️
-  
-
-## Getting Started
 - Step-0: Make sure you install [flutter] and [androidstudio]
 
 - Step-1: Clone This Project to your local device [With this link](https://github.com/Turing311/FaceAttendance.git)
